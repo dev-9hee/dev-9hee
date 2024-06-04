@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+####  Welcome my github profile !
+
+🔭 Education
+
+🌱 Department of Electronic Engineering [2019.03 ~ 2024.02]
+
+📫 : oo558587@naver.com
+  
+####  :clipboard: Once I've Used 
+    
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-6DB33F?style=for-the-badge&logo=AndroidStudio&logoColor=white">
+
+<!--<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
