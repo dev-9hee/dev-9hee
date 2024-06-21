@@ -1,7 +1,7 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 <!--
-**dev-9hee/dev-9hee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PradaRio/PradaRio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,16 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-####  Welcome my github profile !
+##  :wave: Welcome my github profile !
 
 🔭 Education
 
 🌱 Department of Electronic Engineering [2019.03 ~ 2024.02]
 
 📫 : oo558587@naver.com
-  
-####  :clipboard: Once I've Used 
-    
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-6DB33F?style=for-the-badge&logo=AndroidStudio&logoColor=white">
 
-<!--<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+## My Tech Stack 🧩
+
+  - Programming Languages : ![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+  - Backend Development : ![](	https://img.shields.io/badge/IntelliJIDEA-7b68ee?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+  - Frontend Development : ![](	https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white) 
+  - Mobile App Development : ![](	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+  - Database : ![](	https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+  - Other :  ![](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+<br>
+ <!--![](	https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
