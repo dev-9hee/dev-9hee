@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 ## My Tech Stack 🧩
 
   - Programming Languages : ![](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](	https://img.shields.io/badge/JavaScript-FFDB58?style=for-the-badge&logo=javascript&logoColor=white)
-  - Backend Development : ![](	https://img.shields.io/badge/IntelliJIDEA-7b68ee?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
-  - Frontend Framework : ![](	https://img.shields.io/badge/Vue-66cdaa?style=for-the-badge&logo=vue&logoColor=white)
-  - Mobile App Development : ![](	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+  - Development Tools : ![](	https://img.shields.io/badge/IntelliJIDEA-7b68ee?style=for-the-badge&logo=IntelliJIDEA&logoColor=white) ![](	https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+  - Framework : ![](	https://img.shields.io/badge/Vue-66cdaa?style=for-the-badge&logo=vue&logoColor=white)
   - Database : ![](	https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
   - Other :  ![](	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 <br>
