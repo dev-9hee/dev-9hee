@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 📫 : oo558587@naver.com
 
+💻 : Web Developer
+
 ## 📚 My Tech Stack 🧩
 
   - Programming Languages : ![](	https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white) ![](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
