@@ -1,3 +1,32 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-9hee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+#### 💻 Usually using Java language for programmming
+
+![Jeong Jihee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dev-9hee&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-9hee&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)
+
+### 👩🏻‍💻 Tech Stack 
+<div align="left">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</div>
+
+<div align="left">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>   
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VisualStudioCode-3498db?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+</div>
+
+<!--
 ##  👋🏻 Welcome my github profile !
 
 - 👩🏻‍💼   Department of Double E (Electronic Engineering)
@@ -30,7 +59,7 @@
 
 ![Jeong Jihee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dev-9hee&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-9hee&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)
-
+-->
 
 
 <!--## Hi there 👋
