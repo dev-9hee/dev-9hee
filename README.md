@@ -26,7 +26,9 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
 
+
 <!--
+기타 내용
 ##  👋🏻 Welcome my github profile !
 
 - 👩🏻‍💼   Department of Double E (Electronic Engineering)
