@@ -3,6 +3,7 @@
 #### 💻 Usually using Java language for programmming
 
 ![Jeong Jihee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dev-9hee&show_icons=true&theme=dark&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-9hee&layout=compact&title_color=ffffff&bg_color=0d1117)
 
 ### Career
 
