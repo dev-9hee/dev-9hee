@@ -2,6 +2,39 @@
 <br>
 #### 💻 Usually using Java language for programmming
 
+![Jeong Jihee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dev-9hee&show_icons=true&theme=dark&bg_color=0d1117)
+
+### Career
+
+- 2024.05 ~ : KB IT's Your Life 5st 
+
+### Experience
+
+- 2022.09.01 ~ 12.23 : Capstone Design for the 2nd semester of the 3rd grade
+- 2023.03.04 ~ 06.14 : Capstone Design for the 1nd semester of the 4rd grade
+- 2024.07.13 ~ 08.04 : Skeleton Project / 온라인 가계부 서비스
+- 2024.07.13 ~ 08.04 : 조코딩 AI Project with Google / Tag Doctor
+- 2024.10.04 ~ 10.06 : DIVE 2024 Hackathon / Track2 - 바다 환경 지킴이 사업 (해초롬)
+
+---
+
+### 👩🏻‍💻 Tech Stack 
+<div align="left">
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</div>
+
+
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-9hee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+#### 💻 Usually using Java language for programmming
+
 ![Jeong Jihee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dev-9hee&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-9hee&layout=compact&title_color=ffffff&bg_color=0d1117&hide_border=true)
 
