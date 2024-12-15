@@ -7,7 +7,7 @@
 
 ### Career
 
-- 2024.05 ~ : KB IT's Your Life 5st 
+- 2024.05 ~ 2024.10 : KB IT's Your Life 5st 
 
 ### Experience
 
