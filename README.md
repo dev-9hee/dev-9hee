@@ -56,15 +56,18 @@
 
 ---
 
+### 🔥 GitHub Stats and Most Used Languages
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-9hee&show_icons=true&theme=dark&bg_color=0d1117&card_width=400" alt="GitHub Stats" style="width: 48;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-9hee&layout=compact&theme=dark&title_color=ffffff&bg_color=0d1117&card_width=400" alt="Most Used Languages" style="width: 48;"/>
+</div>
+
+<!-- 
 ### 🔥 GitHub Stats
 ![Jeong Jihee's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dev-9hee&show_icons=true&theme=dark&bg_color=0d1117)
-
----
-
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-9hee&layout=compact&title_color=ffffff&bg_color=0d1117)
 
-<!-- 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-9hee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 -->
