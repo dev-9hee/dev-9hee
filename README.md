@@ -49,7 +49,7 @@
 
 ---
 
-## 📂 Other Experiences  
+### 📂 Other Experiences  
 - **2022** : Capstone Design (3학년 2학기)  
 - **2023** : Capstone Design (4학년 1학기)  
 - **2024** : Skeleton Project / 온라인 가계부 서비스
