@@ -58,8 +58,8 @@
 
 ### 🔥 GitHub Stats and Most Used Languages
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-9hee&show_icons=true&theme=dark&bg_color=0d1117&card_width=400" alt="GitHub Stats" style="width: 48;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-9hee&layout=compact&theme=dark&title_color=ffffff&bg_color=0d1117&card_width=400" alt="Most Used Languages" style="width: 48;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-9hee&show_icons=true&theme=dark&bg_color=0d1117&card_width=300" alt="GitHub Stats" style="width: 48;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-9hee&layout=compact&theme=dark&title_color=ffffff&bg_color=0d1117&card_width=300" alt="Most Used Languages" style="width: 48;"/>
 </div>
 
 <!-- 
