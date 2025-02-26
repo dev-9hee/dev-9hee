@@ -45,7 +45,6 @@
 |**2024** KB IT's Your Life 해커톤|<a href="https://github.com/2024-crunch-it"><img src="https://img.shields.io/badge/KB청바지-000000?style=flat-square&logo=github&logoColor=white"/></a>|🏆최우수상|
 |**2024** KB IT's Your Life 종합실무 프로젝트|<a href="https://github.com/dev-9hee/crunch-it"><img src="https://img.shields.io/badge/Muno-000000?style=flat-square&logo=github&logoColor=white"/></a>|-|
 |**2024** DIVE 2024 해커톤 Track2|<a href="https://github.com/cosimba"><img src="https://img.shields.io/badge/해초롬-000000?style=flat-square&logo=github&logoColor=white"/></a>|-|
-|**2024** 조코딩 AI Project with Google|<a href="https://github.com/dev-9hee/tag-doctor-server"><img src="https://img.shields.io/badge/TagDoctor-000000?style=flat-square&logo=github&logoColor=white"/></a>|-|
 
 ---
 
@@ -70,4 +69,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-9hee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
+
+|**2024** 조코딩 AI Project with Google|<a href="https://github.com/dev-9hee/tag-doctor-server"><img src="https://img.shields.io/badge/TagDoctor-000000?style=flat-square&logo=github&logoColor=white"/></a>|-|
 -->
